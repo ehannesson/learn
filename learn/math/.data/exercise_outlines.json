@@ -1,0 +1,8 @@
+{
+  "fundamentals": {
+    "addition": "__val0__ + __val1__ = ",
+    "subtraction": "__val0__ - __val1__ = ",
+    "multiplication": "__val0__ * __val1__ = ",
+    "division": "__val0__ / __val1__ = "
+  }
+}
